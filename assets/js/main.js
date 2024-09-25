@@ -51,7 +51,7 @@ const typeEraseText = (element, cursor, textArray) => {
 // Select the elements and cursor for both cases
 const typedText = document.querySelector(".typed-text");
 const cursorText = document.querySelector(".cursor");
-const textArray = ["Web Developer", "Web Designer", "Tutor", "Learner..."];
+const textArray = ["Angular Develope","Front end Developer", "Full stack Developer", "Freelancer", " Learner...","Proud INDIAN"];
 
 const typedLanguage = document.querySelector(".typed-language");
 const cursorLanguage = document.querySelector(".cursor1");
