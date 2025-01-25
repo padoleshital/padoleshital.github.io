@@ -109,18 +109,19 @@ function windowOnClick(event) {
   }
 }
 
-for (var i = 0, len = triggers.length; i < len; i++) {
+for (var i = 0; i < triggers.length; i++) {
   triggers[i].addEventListener("click", toggleModal);
 }
-closeButton.addEventListener("click", toggleModal);
-window.addEventListener("click", windowOnClick);
 
+if (closeButton) {
+  closeButton.addEventListener("click", toggleModal);
+}
 
 
 // Select the elements and cursor for both cases
 const typedText = document.querySelector(".typed-text");
 const cursorText = document.querySelector(".cursor");
-const textArray = ["Angular Develope","Front end Developer", "Full stack Developer", "Freelancer", " Learner...","Proud INDIAN"];
+const textArray = ["Angular Developer" ,"ReactJs Developer","Front end Developer", "Full stack Developer", "Freelancer", " Learner...","Proud INDIAN"];
 
 const typedLanguage = document.querySelector(".typed-language");
 const cursorLanguage = document.querySelector(".cursor1");
