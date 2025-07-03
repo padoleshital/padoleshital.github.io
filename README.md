@@ -17,4 +17,4 @@ I'm a full-stack developer skilled in .NET Core, Angular, and React.
 
 ## 📫 Contact Me
 - 📧 Email: padole.shital10@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/shital-padole1010](https://www.linkedin.com/in/shital-padole1010
+- 💼 LinkedIn: [linkedin.com/in/shital-padole1010](https://www.linkedin.com/in/shital-padole1010)
