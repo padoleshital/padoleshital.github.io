@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Shital Padole
 I'm a passionate Full-Stack Developer skilled in Angular, ASP.NET Core, and React. I love building responsive web applications and solving real-world problems with clean and scalable code. Currently seeking opportunities to grow as a developer and contribute to impactful projects.
 
-## 🧑‍💻 About Me
-I'm a full-stack developer skilled in .NET Core, Angular, and React.
+
 
 ## 🌐 Live Portfolio
 [Click here to visit my portfolio](https://padoleshital.github.io/)
